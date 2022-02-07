@@ -11,7 +11,7 @@ ___
 
 <img src="./images/Screenshot from 2022-02-08 01-13-19.png" alt="Image of gui " style="border: 3px dashed rgb(138, 212, 255);">
 
-> Hope you like it 
+***Hope you like it***
 
 
 
