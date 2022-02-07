@@ -1,6 +1,6 @@
 <h1 style="text-align: center; font-weight: bold; font-size: 40px;"> THANOS-STONES</h1>
 
-> Feel the power of 6 stones: <br> &emsp;&emsp;1. The Space Stone<br> &emsp;&emsp;2. The Reality Stone<br> &emsp;&emsp;3. The Power Stone<br> &emsp;&emsp;4. The Mind Stone<br> &emsp;&emsp;5. The Time Stone&emsp;&emsp;6. The Soul Stone 
+> Feel the power of 6 stones: <br> &emsp;&emsp;1. The Space Stone<br> &emsp;&emsp;2. The Reality Stone<br> &emsp;&emsp;3. The Power Stone<br> &emsp;&emsp;4. The Mind Stone<br> &emsp;&emsp;5. The Time Stone<br>&emsp;&emsp;6. The Soul Stone 
 
 >#  It is an gui based python application that uses recursion
 
