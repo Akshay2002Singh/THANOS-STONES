@@ -83,7 +83,7 @@ def select_folder():
 if __name__=="__main__":
     root = Tk()
     # window size
-    root.title("Elite Youtube Playlist Downloader")
+    root.title("ELITE-THANOS-STONES")
     root.geometry("1000x400")
     root.minsize(1000,400)
     
@@ -100,7 +100,7 @@ if __name__=="__main__":
     heading2=Label(root,text="THANOS STONES",font="Times 50 bold",relief=RAISED,background="cyan",padx=10,pady=9,)
     heading2.pack()
     Label(root,text="",font="calibre 2 bold").pack()
-    Label(root,text="Feel the power of 5 stones",font="calibre 20 bold",relief=RAISED,background="cyan",padx=10,pady=9,).pack()
+    Label(root,text="Feel the power of 6 stones",font="calibre 20 bold",relief=RAISED,background="cyan",padx=10,pady=9,).pack()
     Label(root,text="",font="calibre 2 bold").pack()
 
     f4=Frame()
