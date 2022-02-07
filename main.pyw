@@ -43,7 +43,7 @@ def use_stones(working_dir,file):
 def thalnos(woring_dir):
     os.chdir(woring_dir)
     current_dir=os.getcwd()
-    print(os.getcwd())
+    # print(os.getcwd())
     if(len(os.listdir())==0):
         return
     filesAndFolder = os.listdir()
